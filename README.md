@@ -1,0 +1,1 @@
+Ce notebook implémente une analyse de sentiment en utilisant Apache Spark pour le traitement et l'analyse de données à grande échelle. Il inclut des étapes de prétraitement, de vectorisation des textes et de classification pour identifier les sentiments exprimés dans les données.
